@@ -1,4 +1,4 @@
-# myp
+# umi plugin example
 
 [![NPM version](https://img.shields.io/npm/v/myp.svg?style=flat)](https://npmjs.org/package/myp)
 [![NPM downloads](http://img.shields.io/npm/dm/myp.svg?style=flat)](https://npmjs.org/package/myp)
