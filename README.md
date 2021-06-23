@@ -24,7 +24,7 @@ Configure in `.umirc.js`,
 ```js
 export default {
   plugins: [
-    ['myp'],
+    ['umi-plugin-my'],
   ],
 }
 ```
